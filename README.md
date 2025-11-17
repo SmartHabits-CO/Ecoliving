@@ -1,4 +1,4 @@
-#🌿 Ecoliving - Landing Page
+🌿 Ecoliving - Landing Page
 
 Bienvenido a Ecoliving, una solución digital enfocada en promover hábitos sostenibles mediante contenidos, productos y recomendaciones que ayudan al usuario a reducir su impacto ambiental.
 Este proyecto forma parte del curso IHC y tecnologias moviles y se desarrolla siguiendo buenas prácticas de arquitectura, organización de código y control de versiones con GitFlow.
