@@ -6,11 +6,11 @@ Este proyecto forma parte del curso IHC y tecnologias moviles y se desarrolla si
 
 📌 Autores
 
-Angelly Fiorella Carrion Ruiz	U202211136
-Leonardo Sebastian Delgado Arriola	U202321020
-Arturo Axel Saravia Huaricancha	U202312447
-Sebastian Cesar Mayta Hau	U202216162
-Ethan Raul Yi Torrejon	U202313434
+1. Angelly Fiorella Carrion Ruiz	U202211136
+2. Leonardo Sebastian Delgado Arriola	U202321020
+3. Arturo Axel Saravia Huaricancha	U202312447
+4. Sebastian Cesar Mayta Hau	U202216162
+5. Ethan Raul Yi Torrejon	U202313434
 
 
 🎯 Objetivo del Proyecto
